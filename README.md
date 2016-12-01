@@ -1,7 +1,7 @@
 # loopback-objectid-mixin
 
 This module is designed for the [Strongloop Loopback](https://github.com/strongloop/loopback) framework. It sets objectId type for model properties. 
-## WORKS ONLY WITH [LOOPBACK-CONNECTOR-MONGODB](https://github.com/strongloop/loopback-connector-mongodb) 
+## works only with [loopback-connector-mongodb](https://github.com/strongloop/loopback-connector-mongodb) 
 
 ## install
 

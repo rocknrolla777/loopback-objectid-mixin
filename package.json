@@ -31,7 +31,5 @@
     "url": "https://github.com/rocknrolla777/loopback-objectid-mixin/issues"
   },
   "homepage": "https://github.com/rocknrolla777/loopback-objectid-mixin#readme",
-  "dependencies": {
-    "loopback": "^2.36.0"
-  }
+  "dependencies": {}
 }

@@ -1,0 +1,34 @@
+{
+  "name": "loopback-objectid-mixin",
+  "version": "1.0.0",
+  "description": "Sets objectId type for model property",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocknrolla777/loopback-objectid-mixin.git"
+  },
+  "keywords": [
+    "mixin",
+    "loopback",
+    "loopback-mongodb-connector",
+    "mongodb-objectid",
+    "objectid",
+    "loopback",
+    "objectid",
+    "loopback",
+    "object",
+    "loopback",
+    "mongodb",
+    "loopback",
+    "mongo"
+  ],
+  "author": "Sergey Reus (reus.sergey14@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rocknrolla777/loopback-objectid-mixin/issues"
+  },
+  "homepage": "https://github.com/rocknrolla777/loopback-objectid-mixin#readme"
+}

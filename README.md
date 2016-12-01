@@ -53,18 +53,6 @@ To use with your Models add the `mixins` attribute to the definition object of y
 | ------ | ---- | ----------- | -------- |
 |properties| [String] | properties which you want to set objectId type | true |
 
-## tests
-
-Run the tests: 
-```bash
-  npm test
-```
-Run with debugging output on:
-
-```bash
-  DEBUG='loopback:mixins:objectid-type' npm test
-```
-
 
 
 

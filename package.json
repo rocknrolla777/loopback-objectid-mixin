@@ -4,7 +4,7 @@
   "description": "Sets objectId type for model property",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R spec test"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/rocknrolla777/loopback-objectid-mixin/issues"
   },
-  "homepage": "https://github.com/rocknrolla777/loopback-objectid-mixin#readme"
+  "homepage": "https://github.com/rocknrolla777/loopback-objectid-mixin#readme",
+  "dependencies": {
+    "loopback": "^2.36.0"
+  }
 }
